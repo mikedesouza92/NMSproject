@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NMSproject</string>
+
+    <string-array name="account_type">
+        <item>admin</item>
+        <item>staff</item>
+        <item>parent</item>
+    </string-array>
+</resources>
